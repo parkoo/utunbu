@@ -1,1 +1,1 @@
-docker build -t ubuntu-per:1.0.0 .
+docker build -t ubuntu-per .
